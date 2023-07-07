@@ -13,8 +13,8 @@ Alguns dos meus projetos e experimentos. Fique à vontade para explorar, clonar 
 ### Quer saber um pouco mais sobre min? 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronilson-alves-63b57a138/)
-[![GitHub](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ronilsonb2)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5513996308174https://github.com/Ronilsonb2)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ronilsonb2)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5513996308174)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronilson-b2@hotmail.com)
 
 <br/>
@@ -46,6 +46,7 @@ Alguns dos meus projetos e experimentos. Fique à vontade para explorar, clonar 
     <img alt= "ADOBE XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
     <img alt= "ADOBE PHOTOSHOP" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
 </div>
+
 
 <br/><br/>
 #### Obrigado por visitar meu perfil! 😀
