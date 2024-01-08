@@ -1,6 +1,6 @@
 ### Olá, eu sou o Ronilson Botelho 👋
 
-Sou um desenvolvedor frontend apaixonado por criar experiências incríveis na web. Atualmente, estou cursando uma pós-graduação em Arquitetura e Desenvolvimento Java, buscando aprimorar minhas habilidades e conhecimentos.
+Sou um desenvolvedor sempre buscando criar experiências incríveis na web. Atualmente, estudando a linguagem Java Spring para uso no back-end em projetos, buscando aprimorar minhas habilidades e conhecimentos.
 
 <br/>
 
